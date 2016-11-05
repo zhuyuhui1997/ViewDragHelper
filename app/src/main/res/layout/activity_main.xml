@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zyh.example.com.viewdraghelper.VDLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="zyh.example.com.viewdraghelper.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="@color/colorPrimary"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Hello World!"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="0dp"/>
+    <TextView
+        android:background="@color/colorPrimary"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Hello World!"
+        android:layout_marginBottom="20dp"/>
+    <TextView
+        android:background="@color/colorPrimary"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Hello World!"
+        android:layout_marginBottom="20dp"/>
+    <TextView
+        android:background="@color/colorPrimary"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Hello World!"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="30dp"/>
+
+</zyh.example.com.viewdraghelper.VDLayout>
